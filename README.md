@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yqod
 - 👀 I’m interested in Sports, Traveling and the joy of Life
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning {React}
 - 💞️ I’m looking to collaborate on WebApps
 - 📫 How to reach me by DM
 
