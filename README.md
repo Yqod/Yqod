@@ -1,4 +1,4 @@
-# let greeting = "Hi there, I’m"
+# const greeting = "Hi there, I’m"
 # const name = "George" 👋 
 # from 
 # let country = "Germany" 🇩🇪
