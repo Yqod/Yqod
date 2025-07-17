@@ -7,7 +7,7 @@ Welcome to my corner of GitHub! I’m on a mission to become a passionate develo
 ## 🚀 Aspiring Developer
 
 I believe in the power of code to create amazing experiences and solve real-world problems.  
-- 💻 **Daily Learner:** I dedicate time each day to explore new languages, frameworks, and best practices.  
+- 💻 **Daily Learner:** I dedicate time each day to improve my skills.  
 - 🎯 **Growth Mindset:** Every bug is a lesson, every project a stepping stone.  
 
 ---
