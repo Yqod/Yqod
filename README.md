@@ -1,6 +1,5 @@
 # const greeting = "Hi there, I’m"
 # const name = "George" 👋 
-# from 
 # let country = "Germany" 🇩🇪
 
 Welcome to my corner of GitHub! I’m on a mission to become a passionate developer, and every day I’m committed to learning something new. 🌱
