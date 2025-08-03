@@ -6,13 +6,7 @@ Welcome to my corner of GitHub! I’m on a mission to become a passionate develo
 
 ---
 
-## 🚀 Aspiring Developer
 
-I believe in the power of code to create amazing experiences and solve real-world problems.  
-- 💻 **Daily Learner:** I dedicate time each day to improve my skills.  
-- 🎯 **Growth Mindset:** Every bug is a lesson, every project a stepping stone.  
-
----
 
 ## 🏄‍♂️ Sports & Adventure
 
@@ -31,13 +25,11 @@ I have an insatiable curiosity for the world and its cultures. Every journey tea
 
 ---
 
-## 🧠 My Philosophy
+
 
 > “I am a learner, not a seeker.”  
 
-This simple mantra keeps me grounded, always open to growth, and forever hungry for knowledge. Whether it’s a new algorithm, a mountaineering technique, or a cultural insight, I’m here to learn, improve, and share.
 
----
 
 ### Let’s Connect!
 
