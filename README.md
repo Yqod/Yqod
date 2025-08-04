@@ -2,7 +2,8 @@
 # const name = "George" 👋 
 # let country = "Germany" 🇩🇪
 
-Welcome to my corner of GitHub! 🌱
+Welcome to my corner of GitHub! 🌱 ![Yqod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yqod&show_icons=true&theme=radical)
+
 
 ## 🛠️ What i know
 
@@ -12,7 +13,7 @@ Welcome to my corner of GitHub! 🌱
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Bungie](https://img.shields.io/badge/Bungie.net-000000?style=flat-square&logo=github&logoColor=white)
+
 
 ## 🛠️ What i Learn 
 
