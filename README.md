@@ -15,7 +15,8 @@ I have an insatiable curiosity for the world and its cultures. Every journey tea
 > “I am a learner, not a seeker.”  
 
 
-(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Yqod&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Visitor Count](https://hitscounter.dev/count.svg?url=https://github.com/Yqod/Yqod)
+
 
 ### Let’s Connect!
 
