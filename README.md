@@ -4,12 +4,13 @@
 
 Welcome to my corner of GitHub! 🌱
 
----
-I have an insatiable curiosity for the world and its cultures. Every journey teaches me something new—about geography, about people, and about myself.  
-- ✈️ Explored let explored = ["🇨🇭","🇳🇴","🇫🇷","🇩🇪","🇵🇱","🇨🇿","🇦🇹","🇭🇷","🇵🇹","🇸🇪","🇸🇮","🇬🇷","🏝️","🇲🇾","🇹🇭"] countries and counting…  
-- 📚 Always reading, watching tutorials, and experimenting with new ideas.  
+## 🛠️ What i know
 
----
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
 > “I am a learner, not a seeker.”  
