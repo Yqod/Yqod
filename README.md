@@ -2,7 +2,7 @@
 # const name = "George" 👋 
 # let country = "Germany" 🇩🇪
 
-Welcome to my corner of GitHub! 🌱 ![Yqod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yqod&show_icons=true&theme=radical)
+Welcome to my corner of GitHub! 🌱 
 
 
 ## 🛠️ What i know
