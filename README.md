@@ -32,6 +32,6 @@ Welcome to my corner of GitHub! 🌱
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYqod&label=&icon=github&color=%23ffe5d0&message=&style=flat&tz=Europe%2FBerlin)
 
 
-### Let’s Connect!
+
 
  
